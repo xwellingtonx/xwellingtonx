@@ -1,4 +1,4 @@
-Hi 👋 My name is Wellington Pires
+Hi 👋 My name is Wellington
 =================================
 
 Senior .NET Developer
